@@ -1,0 +1,22 @@
+# IDE files
+.idea/
+.vscode/
+
+# Obsidian transient workspace state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary exports and editor backups
+*.bak
+*.tmp
+
+# Installed community plugins (users can install their own)
+.obsidian/plugins/
+.obsidian/community-plugins.json
+
