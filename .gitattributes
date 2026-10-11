@@ -1,0 +1,4 @@
+# Keep Markdown notes and Git configuration files LF on every platform.
+*.md text eol=lf
+.gitattributes text eol=lf
+.gitignore text eol=lf
