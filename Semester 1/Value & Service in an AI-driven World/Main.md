@@ -20,6 +20,7 @@ How digital and AI-based technologies shape value creation, services, and organi
 - **Assessment:** Exam (see STiNE for binding details)
 - **Exam date in current note:** 23 November 2026, 14:15–15:45
 - **Exam room in current note:** HdI (Bu 56b), Hörsaal 2
+- **Course Resources:** https://lernen.min.uni-hamburg.de/course/view.php?id=7179
 
 ## Notes
 

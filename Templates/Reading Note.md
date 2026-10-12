@@ -1,30 +1,61 @@
 ---
 type: reading
-course:
+course: "[[<% tp.file.folder(true).split('/')[1] %>]]"
 author:
 year:
 source:
-status: to-read
+status: in-progress
 tags:
   - reading
 ---
 
-# {{title}}
+# <% tp.file.title %>
 
-## Citation
+## Before reading
 
-## Main question / argument
+- **Why am I reading this?**
+- **What question do I expect it to answer?**
+- **What do I already think / know?**
 
-## Summary
+## Source and central argument
 
-## Concepts and evidence
+- **Research question / problem:**
+- **Main claim:**
+- **Why it matters:**
 
-## Critique / limitations
+## Evidence and reasoning
 
-## Relevance to ITMC
+- **Method, data, or case:**
+- **Key evidence:**
+- **How the evidence supports the claim:**
+- **Important concepts (in my own words):**
 
-## Quotations and page numbers
+## Critical reading
 
-## Related notes
-- 
+- **Assumptions or boundary conditions:**
+- **Limitations / alternative explanations:**
+- **What I agree or disagree with, and why:**
 
+## Close the source — retrieve before checking
+
+- **Explain the argument in 3–5 sentences from memory:**
+- **What evidence best supports it?**
+- **What question would I ask the author?**
+- **What did I forget or misread when I checked?**
+
+## Relevance and connections
+
+- **Relevance to ITMC / a course question:**
+- **Connection to another reading or concept:**
+- Related notes: 
+
+## Quotations (exact wording + page)
+
+> Keep quotations short and include page numbers. Paraphrase other points in your own words.
+
+- “…” (p. ) — Why this passage matters:
+
+## Review
+
+- [ ] Recall the argument without rereading
+- [ ] Revisit / compare with a related source on: 
